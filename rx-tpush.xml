@@ -1,4 +1,4 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="broadcast">
   <intent-filter>
     <action name="com.tencent.android.tpush.action.SDK" />
     <action name="com.tencent.android.tpush.action.FEEDBACK" />
